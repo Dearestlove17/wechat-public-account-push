@@ -1,23 +1,23 @@
 export const config = {
     // 公众号配置
     // 公众号appId
-    appId: "wxc93158bacb37c180",
+    appId: "wx79196e2af0d3a336",
     // 公众号appSecret
-    appSecret: "8166ccc94171205acc61d79daf86d08b",
+    appSecret: "f0476a0594c833f27d85c7110d85a9d7",
     // 模板消息id
-    templateId: "xvG5n3a5G8GETg4jKalnonM_jzTo2kOvJdXMgRdikwU",
+    templateId: "WaKzZlaH1Bw7KnLvE9HZJwQE5YacWhJ1Rq6-HIkj_u4",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-    user: ["oKMUE5wRy-yGT4pYhh3J2o-8F7rw","oKMUE5_d2TL5BYpWZiXM1dPLP6LA"],
+    user: ["oKMUE5wRy-yGT4pYhh3J2o-8F7rw","opaYy6aLILlhRZAqMgzMSK7n34wc"],
      
     // 信息配置
     ewai: "   ",
     // 所在省份
-    province: "广西",
+    province: "四川",
     // 所在城市
-    city: "桂林",
+    city: "自贡",
     // 生日，修改名字为对应需要显示的名字，如果生日为农历， type为 r
     birthdays: [
-      {"name": "曾曾", "year": "1998", "date": "06-02", "type": 'new'},
+      {"name": "乖乖", "year": "1998", "date": "06-02", "type": 'new'},
       {"name": "哥哥", "year": "1996", "date": "01-07", "type": 'new'},
     ],
     // 在一起的日子，格式同上
