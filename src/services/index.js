@@ -118,7 +118,7 @@ import dayjs from 'dayjs'
         
         if (nextBir === 0) {
             birthdayMessage = `今天是${birthday.name}生日哦，祝${birthday.name}生日快乐！`
-        } else if (nextBir > 0 ) {
+        } else  {
             birthdayMessage = `距离${birthday.name}的生日还有${nextBir}天`
         }
         // 存储数据
