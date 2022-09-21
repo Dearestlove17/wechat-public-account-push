@@ -7,7 +7,7 @@ export const config = {
     // 模板消息id
     templateId: "WaKzZlaH1Bw7KnLvE9HZJwQE5YacWhJ1Rq6-HIkj_u4",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-    user: ["oKMUE5wRy-yGT4pYhh3J2o-8F7rw","opaYy6aLILlhRZAqMgzMSK7n34wc"],
+    user: ["opaYy6dE-C9PcmPEPLygK5DV03tQ","opaYy6aLILlhRZAqMgzMSK7n34wc"],
      
     // 信息配置
     ewai: "   ",
@@ -18,7 +18,6 @@ export const config = {
     // 生日，修改名字为对应需要显示的名字，如果生日为农历， type为 r
     birthdays: [
       {"name": "乖乖", "year": "1998", "date": "06-02", "type": 'new'},
-      {"name": "哥哥", "year": "1996", "date": "01-07", "type": 'new'},
     ],
     // 在一起的日子，格式同上
     loveDate: "2016-11-05",
