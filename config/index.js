@@ -17,7 +17,7 @@ export const config = {
     city: "自贡",
     // 生日，修改名字为对应需要显示的名字，如果生日为农历， type为 r
     birthdays: [
-      {"name": "乖乖", "year": "2003", "date": "09-21", "type": 'new'},
+      {"name": "小雨", "year": "2003", "date": "08-09", "type": 'new'},
     ],
     // 在一起的日子，格式同上
     loveDate: "2022-8-02",
